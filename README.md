@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rstanberry
-- 👀 I’m interested in creating a Dapp yeild farming app on my site Arable.finance
-- 🌱 I’m currently learning NFT
-- 💞️ I’m looking to collaborate on see number 2
+- 👀 I am the owner of Arable.finance
+- 🌱 I am working on building out a Burn Locker site to keep floor prices on Farm Tokens
+- 💞️ I launch tokens on various chains
 - 📫 How to reach me rstanberry@gmail.com or on Telegram under Rusty Stanberry
 
 <!---
